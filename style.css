@@ -1,0 +1,25 @@
+body
+    {
+        background-color: rgb(255, 230, 86);
+    }
+a:link
+    {
+        color: rgba(236, 165, 11, 0.938));
+        text-decoration: none;
+        padding: 15px;
+    }
+a:hover
+    {
+        color: rgb(255, 224, 50);
+    }
+p
+    {
+        color: black;
+        font-size: 14pt;
+        font-family: century;
+    }
+h1
+    {
+        color: rgb(163, 137, 23);
+        font-size: 30pt;
+    }
